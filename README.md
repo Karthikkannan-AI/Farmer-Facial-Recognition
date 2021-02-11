@@ -41,11 +41,11 @@ Government's own data indicates money went into the wrong hands. More than half 
 
 A major chunk of these ineligible beneficiaries belongs to five states -- Punjab, Assam, Maharashtra, Gujarat and Uttar Pradesh, as per the RTI data.
 
-                     Punjab Undeserving Farmers Benefitted = 4.74 lakh beneficiaries (23.16 per cent )
-                     Assam Undeserving Farmers Benefitted =  3.45 lakh beneficiaries (16.87%)
-                     Maharashtra Undeserving Farmers Benefitted  = 2.86 lakh beneficiaries (13.99%)
-                     Gujarat Undeserving Farmers Benefitted  = 1.64 lakh beneficiaries (8.05 per cent) 
-                     Uttar Pradesh Undeserving Farmers Benefitted = 1.64 lakh beneficiaries (8.01 per cent) 
+Punjab Undeserving Farmers Benefitted = 4.74 lakh beneficiaries (23.16 per cent )
+Assam Undeserving Farmers Benefitted =  3.45 lakh beneficiaries (16.87%)
+Maharashtra Undeserving Farmers Benefitted  = 2.86 lakh beneficiaries (13.99%)
+Gujarat Undeserving Farmers Benefitted  = 1.64 lakh beneficiaries (8.05 per cent) 
+Uttar Pradesh Undeserving Farmers Benefitted = 1.64 lakh beneficiaries (8.01 per cent) 
 
 #### Source : Money Under PM-KISAN Scheme Going In 'Wrong Hands', RTI Data Reveals ####
 
