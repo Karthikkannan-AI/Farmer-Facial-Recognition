@@ -33,7 +33,21 @@
 
 <img src="https://github.com/Karthikkannan-AI/Farmer-Facial-Recognition/blob/main/resources/Facts%201.png">
 
-<img src="https://github.com/Karthikkannan-AI/Farmer-Facial-Recognition/blob/main/resources/Facts%202.png">
+#### As per the RTI from Union Agriculture Ministry, Government of India ####
+
+Since the Commencement of PM-KISAN Yojana in 2019, Rs 1,364.13 crore (USD 186.59 million) has been paid to ‘ineligible persons’ and ‘income tax payee farmers’ till July 31, 2020
+
+Government's own data indicates money went into the wrong hands. More than half (55.58 per cent) of these undeserving persons belong to the ‘income tax payee category'. "The remaining 44.41 per cent belong to the ‘ineligible farmers’ category’,“
+
+A major chunk of these ineligible beneficiaries belongs to five states -- Punjab, Assam, Maharashtra, Gujarat and Uttar Pradesh, as per the RTI data.
+
+                     Punjab Undeserving Farmers Benefitted = 4.74 lakh beneficiaries (23.16 per cent )
+                     Assam Undeserving Farmers Benefitted =  3.45 lakh beneficiaries (16.87%)
+                     Maharashtra Undeserving Farmers Benefitted  = 2.86 lakh beneficiaries (13.99%)
+                     Gujarat Undeserving Farmers Benefitted  = 1.64 lakh beneficiaries (8.05 per cent) 
+                     Uttar Pradesh Undeserving Farmers Benefitted = 1.64 lakh beneficiaries (8.01 per cent) 
+
+#### Source : Money Under PM-KISAN Scheme Going In 'Wrong Hands', RTI Data Reveals ####
 
 <img src="https://github.com/Karthikkannan-AI/Farmer-Facial-Recognition/blob/main/resources/Facts%203.png">
 
