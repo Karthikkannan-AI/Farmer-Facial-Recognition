@@ -3,10 +3,12 @@
 ## Table of Contents ##
 
 * [Introduction](https://github.com/Karthikkannan-AI/Farmer-Facial-Recognition/blob/main/README.md#introduction)
-* [Application](https://github.com/Karthikkannan-AI/Farmer-Facial-Recognition/blob/main/README.md#application)
-* [Solution](https://github.com/Karthikkannan-AI/Farmer-Facial-Recognition/blob/main/README.md#solution)
-  * [Solution Workflow](https://github.com/Karthikkannan-AI/Farmer-Facial-Recognition/blob/main/README.md#solution-workflow)
-  * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/Farmer-Facial-Recognition/blob/main/README.md#evaluation-of-the-proposed-solution)
+* [The Problem]()
+  * [Analysis of the Problem]()
+  * [Facts]()
+* [Proposed Solution]()
+  * [Solution Workflow]()
+  * [Evaluating the Solution]()
 * [Conclusion](https://github.com/Karthikkannan-AI/Farmer-Facial-Recognition/blob/main/README.md#conclusion)
 * [Contact Us](https://github.com/Karthikkannan-AI/Farmer-Facial-Recognition/blob/main/README.md#contact-us)
 * [Rebounding from COVID-19](https://github.com/Karthikkannan-AI/Farmer-Facial-Recognition/blob/main/README.md#rebounding-from-covid-19)
@@ -19,8 +21,13 @@
 
 - - - -
 
-## Application ##
+## The Problem ##
 
+### Analysis of the Problem ###
+
+
+
+### Facts ###
 
 
 - - - -
@@ -29,13 +36,13 @@
 
 
 
-- - - -
+
 
 ### Solution Workflow ###
 
 
 
-- - - -
+
 
 ### Evaluation of the Proposed Solution ###
 
