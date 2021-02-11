@@ -17,7 +17,7 @@
 
 ## Introduction ##
 
-
+<img src="https://github.com/Karthikkannan-AI/Farmer-Facial-Recognition/blob/main/resources/Introduction.png">
 
 - - - -
 
@@ -25,22 +25,25 @@
 
 ### Analysis of the Problem ###
 
+<img src="https://github.com/Karthikkannan-AI/Farmer-Facial-Recognition/blob/main/resources/Problem%201.png">
 
+<img src="https://github.com/Karthikkannan-AI/Farmer-Facial-Recognition/blob/main/resources/Problem%202.png">
 
 ### Facts ###
 
+<img src="https://github.com/Karthikkannan-AI/Farmer-Facial-Recognition/blob/main/resources/Facts%201.png">
+
+<img src="https://github.com/Karthikkannan-AI/Farmer-Facial-Recognition/blob/main/resources/Facts%202.png">
+
+<img src="https://github.com/Karthikkannan-AI/Farmer-Facial-Recognition/blob/main/resources/Facts%203.png">
 
 - - - -
 
 ## Proposed Solution ##
 
-
-
-
-
 ### Solution Workflow ###
 
-
+<img src="https://github.com/Karthikkannan-AI/Farmer-Facial-Recognition/blob/main/resources/Solution%20Workflow%201.png">
 
 
 
