@@ -29,9 +29,11 @@
 
 <img src="https://github.com/Karthikkannan-AI/Farmer-Facial-Recognition/blob/main/resources/Problem%202.png">
 
+<img src="https://github.com/Karthikkannan-AI/Farmer-Facial-Recognition/blob/main/resources/Facts%201.png">
+
+
 ### Facts ###
 
-<img src="https://github.com/Karthikkannan-AI/Farmer-Facial-Recognition/blob/main/resources/Facts%201.png">
 
 #### As per the RTI from Union Agriculture Ministry, Government of India ####
 
