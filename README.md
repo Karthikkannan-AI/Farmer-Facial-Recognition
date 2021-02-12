@@ -54,7 +54,12 @@ Uttar Pradesh Undeserving Farmers Benefitted = 1.64 lakh beneficiaries (8.01 per
 
 #### Source : Money Under PM-KISAN Scheme Going In 'Wrong Hands', RTI Data Reveals ####
 
-<img src="https://github.com/Karthikkannan-AI/Farmer-Facial-Recognition/blob/main/resources/Facts%203.png">
+https://www.outlookindia.com/website/story/india-news-money-under-pm-kisan-scheme-going-in-wrong-hands-rti-data-reveals/370031
+
+PM-KISAN sops reached 20 lakh undeserving beneficiaries: report
+
+https://www.businesstoday.in/current/economy-politics/pm-kisan-sops-reached-20-lakh-undeserving-beneficiaries/story/429700.html 
+
 
 - - - -
 
