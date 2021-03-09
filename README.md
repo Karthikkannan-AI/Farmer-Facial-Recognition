@@ -75,7 +75,7 @@ https://www.businesstoday.in/current/economy-politics/pm-kisan-sops-reached-20-l
 
 ### Evaluation of the Proposed Solution ###
 
-
+<a href="https://youtu.be/aQFq6dEvfBk" target="_blank"><img src="https://github.com/Karthikkannan-AI/Farmer-Facial-Recognition/blob/main/resources/Farmer%20Face%20Recognition.png"/></a>
 
 - - - -
 
