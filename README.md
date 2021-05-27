@@ -17,6 +17,11 @@
 
 ## Introduction ##
 
+The Pradhan Mantri Kisan Samman Nidhi Yojana (PM-Kisan Yojana) is a government scheme through which all small and marginal farmers will get up to Rs 6,000 per year as minimum income support. This 75,000-crore scheme aims to cover 125 million farmers, irrespective of the size of their landholding in India.
+
+Because of the Sheer size of the project Ineligible beneficiaries, farmers not benefitting. We propose a solution of using Facial Recognition in the Scheme, so that eligible farmers are only benefited .
+
+
 <img src="https://github.com/Karthikkannan-AI/Farmer-Facial-Recognition/blob/main/resources/Introduction.png">
 
 - - - -
@@ -81,6 +86,7 @@ https://www.businesstoday.in/current/economy-politics/pm-kisan-sops-reached-20-l
 
 ## Conclusion ##
 
+Farmer facial recognition in the  he Pradhan Mantri Kisan Samman Nidhi Yojana (PM-Kisan Yojana) scheme can help identify the right farmer beneficiary and help reduce the fraudulent beneficiary. 
 
 
 - - - -
